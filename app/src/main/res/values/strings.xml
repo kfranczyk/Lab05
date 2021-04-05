@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="zapisz">Zapis</string>
+    <string name="odczyt">Czytaj</string>
+</resources>
